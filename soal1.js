@@ -9,3 +9,6 @@ let MaxConsecutive = (n) => {
     }
     return max;
 };
+
+let n = [1,0,1,1];
+MaxConsecutive(n);
